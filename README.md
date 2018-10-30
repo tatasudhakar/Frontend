@@ -1,2 +1,2 @@
 # Frontend
-This is a Angular fontend page any suggestions are accepted:)
+This is a Angular fontend page any of other suggestions are accepted:)
